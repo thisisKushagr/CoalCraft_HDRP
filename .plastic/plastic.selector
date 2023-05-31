@@ -1,4 +1,0 @@
-repository "CoalCraft_HDRP@Team_Cypher@cloud"
-  path "/"
-    br "/main"
-    co "/main"
