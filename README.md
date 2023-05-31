@@ -1,7 +1,7 @@
 # COALCRAFT - A VR Simulation to Train Coal Miners in India
 
 <div align="center">
-<img src ="imgassets/coalcraft-logo.png" height="300" width="300" alt = "coalcraft-logo">
+<img src ="imgassests/coalcraft-logo.png" height="300" width="300" alt = "coalcraft-logo">
 </div>
 
 ## What is Coalcraft
